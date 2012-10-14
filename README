@@ -1,0 +1,14 @@
+===============================================================================
+ sample 1 (2008)
+===============================================================================
+
+Functions file that contains all type of functions like database operations, url generator, form fields generator, ...
+
+
+===============================================================================
+ sample 2 (October 2012)
+===============================================================================
+
+PHP class that works with twitter getting tweets from a user. 
+The samples folder contain examples that display latest tweets, hashtags used, tweets that only have urls, ...
+In samples/conf.php you can setup twitter user, num of tweets to display and if you want to include retweets
