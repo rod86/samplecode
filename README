@@ -4,6 +4,12 @@
 
 Functions file that contains all type of functions like database operations, url generator, form fields generator, ...
 
+===============================================================================
+ designhq (Created in August 2011)
+===============================================================================
+
+Wordpress theme based on HTML template "Design HQ" by Solucija (http://www.solucija.com/).
+Works with wordpress 3.1.3 and later. 
 
 ===============================================================================
  sample 2 (Created in October 2012)
@@ -12,3 +18,4 @@ Functions file that contains all type of functions like database operations, url
 PHP class that works with twitter getting tweets from a user. 
 The samples folder contain examples that display latest tweets, hashtags used, tweets that only have urls, ...
 In samples/conf.php you can setup twitter user, num of tweets to display and if you want to include retweets
+
